@@ -1,0 +1,8 @@
+/reports/*
+/logs/*
+*/reports/*
+*/logs/*
+*/data/*
+/data/*
+data/*
+*.pyc
